@@ -23,7 +23,7 @@ http://www.gsi.go.jp/chizuhensyu/zukaku_ido_keido1.html
 http://maps.gsi.go.jp/?ll=35.523565,139.356422&z=11&base=std&ls=25000zukaku&cd=f0&vs=c1j0l0u0&d=l
 
 github
-
+http://gsi-cyberjapan.github.io/experimental_zk25000/
 
 
 # 提供の位置づけ
